@@ -1,0 +1,4 @@
+{
+    "dart.addSdkToTerminalPath": true,
+    "dart.cliConsole": "terminal"
+}
